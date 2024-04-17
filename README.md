@@ -9,7 +9,8 @@ A decimal number can be split up into these components (in order):
 2.One of the following formats:
    1. One or more digits, followed by a dot '.'.
    2. One or more digits, followed by a dot '.', followed by one or more digits.
-   3.A dot '.', followed by one or more digits.
+   3. A dot '.', followed by one or more digits.
+
 An integer can be split up into these components (in order):
 
 1.(Optional) A sign character (either '+' or '-').
